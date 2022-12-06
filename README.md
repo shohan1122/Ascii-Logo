@@ -11,5 +11,5 @@
 * `pkg install git -y`
 * `pip install lolcat`
 * `git clone https://github.com/shohan1122/Ascii-Logo`
-*`cd Ascii-Logo`
-*`python x.py`
+* `cd Ascii-Logo`
+* `python x.py`
